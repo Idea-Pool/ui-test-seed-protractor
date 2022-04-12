@@ -3,12 +3,12 @@
 Template for UI test automation project, using:
 
 * CucumberJS
-* Selenium 3
-* Protractor 5
+* Selenium
+* Protractor
 
 ## Prerequisites
 
-* [Node.js LTS (10+)](https://nodejs.org/en/)
+* [Node.js LTS (16+)](https://nodejs.org/en/)
 
 ## Install
 
